@@ -1,0 +1,13 @@
+{
+  "version": "2.0",
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=ignite18graphfunctions;AccountKey=123",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=ignite18graphfunctions;AccountKey=123",
+    "AppID": "123",
+    "Secret": "456",
+    "Tenant": "[mytenant].onmicrosoft.com",
+    "SenderEMail": "[myadmin]@[mytenant].onmicrosoft.com",
+    "Inbox": "room1@[mytenant].onmicrosoft.com"
+  }
+}
